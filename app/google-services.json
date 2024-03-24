@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193158845208",
+    "project_id": "flourcrisismanagment-6b349",
+    "storage_bucket": "flourcrisismanagment-6b349.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193158845208:android:fa6f33c22794be5828046d",
+        "android_client_info": {
+          "package_name": "com.example.flourcrisismanagment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193158845208-3fsfcb867r59c8ohtc9r6d6r980jlsdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcYlM1zOEFqjGgXpKcykceuXqUntKKqDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193158845208-3fsfcb867r59c8ohtc9r6d6r980jlsdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
